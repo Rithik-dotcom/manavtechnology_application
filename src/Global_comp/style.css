@@ -1,0 +1,10 @@
+.header_two_nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-decoration: auto;
+    font-style: italic;
+    font-size: large;
+    font-weight: 500;
+    color: white;
+}
